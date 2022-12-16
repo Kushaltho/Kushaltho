@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/kushal-thokar-8982aa25a
+[linkedin]: https://www.linkedin.com/in/kushal-thokar
